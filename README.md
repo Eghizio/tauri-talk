@@ -1,2 +1,2 @@
 # tauri-talk
-Talk about Tauri - more will be added soon
+Talk about Tauri and Hybrid Apps - more will be added soon
