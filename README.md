@@ -19,8 +19,10 @@ We'll glance over hybrid approaches to building apps. We'll start with Electron.
 
 # Contact
 
-LinkedIn: [Link](https://www.linkedin.com/in/jacob-wasik/)
+[LinkedIn](https://www.linkedin.com/in/jacob-wasik/)
 
-GitHub: [Link](https://github.com/Eghizio)
+[GitHub](https://github.com/Eghizio)
 
 Discord: `Eghizio#3491`
+
+# [🔗 Check out my other talks](https://github.com/Eghizio/talks)
